@@ -1,0 +1,177 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    height: 100%;
+    width: 100%;
+}
+header{
+    background-color: antiquewhite;
+
+}
+.navbar{
+    overflow: hidden;
+    height: 100px;
+    width: 100%;
+    background-color:rgb(241, 219, 219);
+    display: flex;
+  
+}
+.navbar img{
+    height: 80px;
+}
+.menu ul{
+    list-style: none;
+    display: flex;
+   
+}
+.menu ul li{
+    margin-top: 40px;
+    margin-left: 50px;
+    font-size: large;
+    font-family: monospace;
+}
+.menu ul li a{
+    text-decoration: none;
+}
+.clgpic img{
+    height: 500px;
+    width: 100%;
+    margin: 10px;
+}
+.content{
+    height: 200px;
+    width: 100%;
+    display:flex;
+    flex-direction: row;
+    margin-left: 50px;
+}
+h3{
+    background-color: rgb(147, 90, 90);
+    text-align: center;
+}
+.news{
+    height: 200px;
+    width: 300px;
+    background-color: bisque;
+    margin: 40px;
+    
+}
+.events{
+    height: 200px;
+    width: 300px;
+    background-color: bisque;
+    margin: 40px;
+}
+.Event{
+    display: flex;
+    margin: 10px;
+    font-size: 12px;
+}
+h5{
+    height: 30px;
+    width: 20px;
+    background-color: rgb(172, 148, 100);
+    text-align: center; 
+}
+p{
+    margin-left: 5px;
+}
+.noticeboard{
+    height: 200px;
+    width: 300px;
+    background-color: bisque;
+    margin: 40px;
+}
+.noticeboard ul li{
+    list-style-type: square;
+}
+.noticeboard ul{
+    font-size: 12px;
+    margin: 15px;
+}
+.content2{
+    height: 200px;
+    width: 100%;
+    display:flex;
+    flex-direction: row;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.info{
+    height: 200px;
+    width: 300px;
+    background-color: bisque;
+    margin: 40px;
+}
+.info img{
+    height: 150px;
+    width: 200px;
+    padding: 15px;
+    margin-left: 25px;
+}
+.gov{
+    height: 200px;
+    width: 300px;
+    background-color: bisque;
+    margin: 40px;
+}
+.Gov{
+    display: flex;
+    margin: 10px;
+}
+.Gov img{
+    height: 50px;
+    width: 100px;
+}
+.certificate{
+    height: 200px;
+    width: 300px;
+    background-color: bisque;
+    margin: 4cqi;
+}
+.certificate img{
+    height: 150px;
+    width: 200px;
+    padding: 20px;
+    margin-left: 20px;
+}
+.gallery{
+    margin-top: 50px;
+}
+.gallery img{
+    height: 200px;
+    width: 300px;
+}
+.container footer{
+    background-color: rgb(193, 174, 150);
+    height: 50px;
+    width: 100%;
+    text-align: center;
+}
+.footer1{
+    height: 100px;
+    width: 100%;
+    background-color: bisque;
+    padding: 10px;
+    display: flex;
+}
+footer{
+    width: 100%;
+}
+ ul li{
+    list-style: none;
+}
+ul li a{
+    text-decoration: none;
+}
+.student{
+    margin-left: 150px;
+}
+.infolink{
+    margin-left: 150px;
+}
+.git{
+    margin-left: 150px;
+}
